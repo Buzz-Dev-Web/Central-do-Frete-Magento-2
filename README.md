@@ -1,8 +1,9 @@
 # Módulo Central do Frete (Magento 2)
 
-## Compativel com:
+## Compatível com:
 
 * Magento 2.3.x
+* Magento 2.4.x
 
 ## Requisitos:
 
@@ -20,6 +21,7 @@
 ```
 
 bin/magento module:status
+
 ```
 
 O resultado esperado deve ser:
@@ -32,6 +34,7 @@ O resultado esperado deve ser:
 ```
 
 bin/magento setup:upgrade
+
 ```
 
 ![Setup Upgrade](https://github.com/Buzz-Dev-Web/Central-do-Frete-Magento-2-/blob/main/images/2-setup-upgrade.png)
@@ -42,6 +45,7 @@ bin/magento setup:upgrade
 ```
 
 bin/magento setup:di:compile
+
 ```
 
 ![Compile](https://github.com/Buzz-Dev-Web/Central-do-Frete-Magento-2-/blob/main/images/3-imagem-recompilar.png)
