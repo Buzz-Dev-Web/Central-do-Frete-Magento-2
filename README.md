@@ -1,5 +1,8 @@
-# Central do Frete (Magento 2)
+# Módulo Central do Frete (Magento 2)
 
+## Compativel com:
+
+* Magento 2.3.x
 
 ## Requisitos:
 
@@ -21,9 +24,8 @@ bin/magento module:status
 
 O resultado esperado deve ser:
 
-imagem aqui (lista exibindo modulo pendente)
+https://github.com/Buzz-Dev-Web/Central-do-Frete-Magento-2-/blob/main/images/1-module-disable.png
 
-1-module-disable.png
 
 3 -> Havendo êxito no processo anterior, também no terminal digite:
 
@@ -32,9 +34,8 @@ imagem aqui (lista exibindo modulo pendente)
 bin/magento setup:upgrade
 ```
 
-imagem do setup:upgrade
+https://github.com/Buzz-Dev-Web/Central-do-Frete-Magento-2-/blob/main/images/2-setup-upgrade.png
 
-2-setup-upgrade.png
 
 4 -> Após finalizar esta etapa, recompile o Magento, através do comando:
 
@@ -43,7 +44,8 @@ imagem do setup:upgrade
 bin/magento setup:di:compile
 ```
 
-imagem do recompilar 3-imagem-recompilar.png
+https://github.com/Buzz-Dev-Web/Central-do-Frete-Magento-2-/blob/main/images/3-imagem-recompilar.png
+
 
 5 -> Caso queira verificar se o módulo foi instalado e ativado digite novamente o comando da etapa 2;
 
@@ -59,7 +61,8 @@ imagem do recompilar 3-imagem-recompilar.png
 
 10 -> Insira o Token de integração disponibilizado pela equipe da **CENTRAL DO FRETE** no campo indicado na imagem abaixo,
 
-imagem 4-token-central.png
+https://github.com/Buzz-Dev-Web/Central-do-Frete-Magento-2-/blob/main/images/4-token-central.png
+
 
 11 -> Selecione o tipo de carga padrão conforme instrução da equipe comercial da **CENTRAL DO FRETE**,
 
