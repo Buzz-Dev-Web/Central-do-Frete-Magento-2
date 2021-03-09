@@ -2,6 +2,7 @@
 
 ## Compatível com:
 
+* Magento 2.2.x
 * Magento 2.3.x
 * Magento 2.4.x
 
