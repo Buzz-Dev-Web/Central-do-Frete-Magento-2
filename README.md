@@ -24,7 +24,7 @@ bin/magento module:status
 
 O resultado esperado deve ser:
 
-https://github.com/Buzz-Dev-Web/Central-do-Frete-Magento-2-/blob/main/images/1-module-disable.png
+![Módulo desabilitado](https://github.com/Buzz-Dev-Web/Central-do-Frete-Magento-2-/blob/main/images/1-module-disable.png)
 
 
 3 -> Havendo êxito no processo anterior, também no terminal digite:
@@ -34,7 +34,7 @@ https://github.com/Buzz-Dev-Web/Central-do-Frete-Magento-2-/blob/main/images/1-m
 bin/magento setup:upgrade
 ```
 
-https://github.com/Buzz-Dev-Web/Central-do-Frete-Magento-2-/blob/main/images/2-setup-upgrade.png
+![Setup Upgrade](https://github.com/Buzz-Dev-Web/Central-do-Frete-Magento-2-/blob/main/images/2-setup-upgrade.png)
 
 
 4 -> Após finalizar esta etapa, recompile o Magento, através do comando:
@@ -44,7 +44,7 @@ https://github.com/Buzz-Dev-Web/Central-do-Frete-Magento-2-/blob/main/images/2-s
 bin/magento setup:di:compile
 ```
 
-https://github.com/Buzz-Dev-Web/Central-do-Frete-Magento-2-/blob/main/images/3-imagem-recompilar.png
+![Compile](https://github.com/Buzz-Dev-Web/Central-do-Frete-Magento-2-/blob/main/images/3-imagem-recompilar.png)
 
 
 5 -> Caso queira verificar se o módulo foi instalado e ativado digite novamente o comando da etapa 2;
@@ -61,7 +61,7 @@ https://github.com/Buzz-Dev-Web/Central-do-Frete-Magento-2-/blob/main/images/3-i
 
 10 -> Insira o Token de integração disponibilizado pela equipe da **CENTRAL DO FRETE** no campo indicado na imagem abaixo,
 
-https://github.com/Buzz-Dev-Web/Central-do-Frete-Magento-2-/blob/main/images/4-token-central.png
+![Token](https://github.com/Buzz-Dev-Web/Central-do-Frete-Magento-2-/blob/main/images/4-token-central.png)
 
 
 11 -> Selecione o tipo de carga padrão conforme instrução da equipe comercial da **CENTRAL DO FRETE**,
